@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"name": "Landing Page Kantor",
+		"path": "C:/Users/ASUS/Documents/Landing Page Kantor"
+	},
+	{
+		"name": "KAIZEN",
+		"path": ".."
+	},
+	{
+		"name": "Portofolio",
+		"path": "C:/Users/ASUS/Documents/Portofolio"
+	},
+	{
+		"name": "alimie-master",
+		"path": "C:/Users/ASUS/Documents/alimie-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "KAIZEN"
+  }
+}
